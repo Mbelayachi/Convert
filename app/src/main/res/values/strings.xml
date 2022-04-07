@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Convertisseur</string>
+    <string-array name="niveau">
+        <item>Euro</item>
+        <item>Dollar</item>
+        <item>Sterling</item>
+    </string-array>
+
+    <string-array name="niveau2">
+        <item>Euro</item>
+        <item>Dollar</item>
+        <item>Sterling</item>
+    </string-array>
+
+</resources>
